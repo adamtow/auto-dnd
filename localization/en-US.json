@@ -1,0 +1,9 @@
+{
+	"en-US": {
+		"language_name": "English",
+		"language_key": "en-US",
+		"menu_enabled": "Auto DND is Active",
+		"menu_disabled": "Auto DND is Disabled",
+		"menu_dnd": "DND String"
+	}
+}
