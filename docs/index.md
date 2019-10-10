@@ -1,6 +1,8 @@
 # Auto DND
 Turn on Do Not Disturb mode on your iOS device based on calendar events that have a customizable string of your choice in the Title or Notes field. When used with Autocuts, Auto DND automatically does this for you throughout the day as you use your iOS device!
 
+![Auto DND turns on Do Not Disturb automatically based on your calendar events](https://adamtow.github.io/auto-dnd/images/auto-dnd-ipad.png)
+
 ## Download
 Get the latest version of Auto DND from RoutineHub:
 
