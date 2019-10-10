@@ -20,6 +20,8 @@ Here is a quick start guide to seeing how Auto DND works if you're running it fo
 
 You'll see Do Not Disturb turn on based on an event in your calendar! Cool, eh? 
 
+![Auto DND manually enabling Do Not Disturb based on calendar entry](https://adamtow.github.io/auto-dnd/images/auto-dnd-calendar.png)
+
 Now, let's get it working automatically in the background.
 
 ### Autocuts
@@ -37,9 +39,13 @@ To get Auto DND to run in Autocuts, do the following once you have installed the
 8. Tap Run in Background.
 9. Choose iCloud ({{your device name}}) if you chose This Device in Step 7. Otherwise, choose iCloud Drive (Shared) if you chose Any Device.
 
+![Auto DND Autocut in Autocuts Admin](https://adamtow.github.io/auto-dnd/images/auto-dnd-autocuts.png)
+
 The Autocut will have been created and will run any time the Autocuts personal automation is triggered by opening one of your selected apps.
 
 Next, re-do the steps in the previous Getting Started section and create a calendar event with the string "DND" in either the title or notes field. Open one of the apps that will trigger Autocuts and you'll see Do Not Disturb turned on automatically!
+
+![Auto DND in Action](https://adamtow.github.io/auto-dnd/images/auto-dnd-in-action.png)
 
 #### But Wait, There's More!
 Auto DND is but one shortcut that takes advantage of Autocuts. Check out [Location Triggers](https://adamtow.github.io/location-triggers) for running shortcuts automatically when you arrive or leave a location and [Auto Low Power Mode](https://adamtow.github.io/auto-low-power-mode) for turning on Low Power Mode when your battery percentage falls below a certain threshold.
