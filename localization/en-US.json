@@ -22,6 +22,9 @@
 		"menu_calendars": "Monitored Calendars…",
 		"label_calendars_all": "All calendars",
 		"menu_limitkit": "Use LimitKit",
+		"menu_limitkit_install": "Install Now…",
+		"menu_limitkit_install_learnmore": "Learn More About LimitKit…",
+		"menu_limitkit_install_later": "Install Later",
 		"menu_limitkit_interval": "Check Frequency…",
 		"menu_run": "Check Now…",
 		"menu_about": "About…",
@@ -32,6 +35,7 @@
 		"prompt_activeTime_start": "Enter the time to start monitoring your calendar events.",
 		"prompt_activeTime_end": "Enter the time to stop monitoring your calendar events.",
 		"prompt_dndString": "Enter the string that must be in the Title or Notes field to enable Do Not Disturb mode.",
+		"prompt_limitkit_install": "LimitKit is an event logging system and rate limiting tool for shortcuts.\n\nAuto DND uses LimitKit to control how frequently it checks your calendar for DND events.\n\nLimitKit is not installed on this iOS device. Would you like to download it?",
 		"prompt_limitkit_interval": "Set the minimum amount of time Auto DND must wait before evaluating your calendar events when used with Autocuts."
 	}
 }
