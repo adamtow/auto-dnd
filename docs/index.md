@@ -66,6 +66,7 @@ The following menu items appear when you launch Auto DND from the Shortcuts Home
 - [Require DND String](#require)
 - [Do Not Disturb String](#string)
 - [Schedule](#schedule)
+- [Advanced Start Time](#advanced-start)
 - [Monitored Calendars](#calendars)
 - [Use LimitKit](#limitkit)
 - [Check Frequency](#frequency)
@@ -93,6 +94,10 @@ A custom string to identify events where Do Not Disturb mode should be turned on
 <span id="schedule"></span>
 ### Schedule
 Set the active times when Auto DND will work. If you have activated Scheduled Do Not Disturb in iOS, it's a good idea to set Auto DND's schedule to those hours outside of the system's schedule.
+
+<span id="advanced-start"></span>
+### Advanced Start Time
+If set, DND will be activated for qualifying events up to X minutes before the start of the event. For instance, if you have an event scheduled for noon, and the grace period is 10 minutes, DND will be turned on starting at 11:50 am when you run Auto DND via Autocuts. 
 
 <span id="calendars"></span>
 ### Monitored Calendars
